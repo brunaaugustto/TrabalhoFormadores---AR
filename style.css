@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(1, 3, 32);
+    background-color: rgb(208, 86, 238);
     color: white;
     font-family: "Chakra Petch", sans-serif;
     margin: 0px;
@@ -14,8 +14,14 @@ p{
 }
 
 header {
-    border-bottom: solid 2px rgb(220, 122, 245);
+    border-bottom: solid 2px rgb(53, 20, 65);
     padding: 20px;
     font-size: 32px;
-    color: rgb(220, 122, 245);
+    color: rgb(53, 20, 65);
+}
+
+section {
+    background: rgb(226, 149, 245);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
